@@ -10,6 +10,8 @@
 #### 10
 #### 11 The weekend is fun.
 #### 12
-#### 13 doggie are cute.
-#### 14 
+
+#### 13 doggies are nice.
+#### 14
+
 #### 15

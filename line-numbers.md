@@ -1,6 +1,6 @@
 #### 1 Spongebob has no pants
 #### 2
-#### 3
+#### 3 Monkey have a hoodie on.
 #### 4
 #### 5
 #### 6

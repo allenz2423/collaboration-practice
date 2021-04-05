@@ -2,7 +2,7 @@
 #### 2
 #### 3 Monkey have a hoodie on.
 #### 4
-#### 5
+#### 5 Monday is good day.
 #### 6
 #### 7
 #### 8

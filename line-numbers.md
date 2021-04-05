@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome.
 #### 10
-#### 11 weekend is a fun.
+#### 11 The weekend is fun.
 #### 12
 #### 13
 #### 14
